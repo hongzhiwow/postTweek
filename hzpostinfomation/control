@@ -1,0 +1,10 @@
+Package: com.iresearch.hzpostinfomation
+Name: HZPostInfomation
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fuck you again and again!
+Maintainer: hongzhi.wang
+Author: hongzhi.wang
+Section: Tweaks
+Homepage:http:www.iresearch.com.cn
